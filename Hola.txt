@@ -1,4 +1,4 @@
-ets una prueba de git y git hub 
+esto una prueba de git y git hub 
 
 Soy ingeniero electronico, estoy cursando mi semestre 2 
 
